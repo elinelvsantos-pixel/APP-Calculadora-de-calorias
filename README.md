@@ -37,7 +37,7 @@ Jest (testes)
 
 * Instalação
 
-git clone https://github.com/seu-usuario/projeto-calculadora-de-peso.git 
+git clone https://github.com/seu-usuario/projeto-calculadora-de-calorias.git 
 
 * Execução
   
